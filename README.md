@@ -1,1 +1,2 @@
-"# lmapr1492" 
+##LMAPR1492
+Repository for the course of material physics
